@@ -8,9 +8,7 @@
 - [Características](#características)
 - [Tecnologías](#NET, ASP.NET Core, MSTest, Docker)
 - [Instalación](#DockerContainer)
-- [Uso](#docker run -d -p 5500:5500 --name exchange-currency-container exchange-currency.1)
-- [Contribuciones](#Josue Pujols)
-- [Contacto](#josuepujols20@icloud.com - 829-381-1528)
+- [Uso](#Instalación)
 
 ---
 
