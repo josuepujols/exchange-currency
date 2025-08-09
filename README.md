@@ -6,9 +6,8 @@
 
 - [Descripción](#descripción)
 - [Características](#características)
-- [Tecnologías](#NET, ASP.NET Core, MSTest, Docker)
-- [Instalación](#DockerContainer)
-- [Uso](#Instalación)
+- [Tecnologías](#Tecnologías)
+- [Uso e Instalación](#Instalación)
 
 ---
 
